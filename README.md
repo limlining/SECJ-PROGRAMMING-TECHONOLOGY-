@@ -2,23 +2,13 @@
 
     Programming techniques are methods for 
     
-    structuring code and solving problems, 
+    structuring code and solving problems,  encompassing paradigms like Object-
     
-    encompassing paradigms like Object-
+    Oriented (OOP) and Functional Programming  (FP), structured approaches like top-
     
-    Oriented (OOP) and Functional Programming 
+    down design, core skills like debugging & algorithms, and advanced concepts like 
     
-    (FP), structured approaches like top-
-    
-    down design, core skills like debugging 
-    
-    & algorithms, and advanced concepts like 
-    
-    metaprogramming & concurrency, all aimed
-    
-    at writing efficient, maintainable, and 
-    
-    robust software
+    metaprogramming & concurrency, all aimed at writing efficient, maintainable, and robust software
 
   8 MODULE(C++) 
 
