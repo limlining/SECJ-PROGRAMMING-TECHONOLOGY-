@@ -38,6 +38,6 @@
 
   MODULE 8-STRUCTURE DATA
 
-  #  lan C++
+  #  lab C++
   [Cpp](https://github.com/limlining/cpp)
   
