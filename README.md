@@ -27,6 +27,11 @@
   MODULE 7-POINTERS 
 
   MODULE 8-STRUCTURE DATA
+  # 💻 ACCESS NOTE AND ASSIGNMENT
+  | SECJ      |    CLICK         |
+|-------------|---------------------------------|
+| **NOTE** |[NOTE](https://limlining.github.io/web-note/note2.html)            |
+| **ASSIGNMENT** |[ASSIGNMENT](https://limlining.github.io/web-note/assignment2.html)| 
 
   #  lab C++
   [Cpp](https://github.com/limlining/cpp)
