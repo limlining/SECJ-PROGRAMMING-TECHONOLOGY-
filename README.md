@@ -1,16 +1,11 @@
 # SECJ-PROGRAMMING-TECHONOLOGY
 
-    Programming techniques are methods for structuring code and solving problems,  encompassing paradigms like Object-
-    
-    Oriented (OOP) and Functional Programming  (FP), structured approaches like top-down design, core skills like debugging & algorithms, and advanced concepts like 
-    
-    metaprogramming & concurrency, all aimed at writing efficient, maintainable, and robust software. 
-
-    Programming Techonology is one of the course that essential for all the computer science student to learn how to create the coding own like c++,java,python,html,javascript,
-
-    c.Actually, I doesn't like programming since i think need more energy to create coding.However, I must to love it since I choose faculty computer science that this is 
-    
-    one of my choice in UPU. 
+     Programming concepts refer to techniques used in the organization of code and problem-solving. They encompass paradigms such as Object-Oriented Programming (OOP) 
+     and Functional Programming (FP), structured programming such as Top-Down design, programming fundamentals including debugging and algorithms, and advanced concepts 
+     such as metaprograms and concurrency. All the above concepts assist us in creating efficient code that can run reliably.Programming Technology is one of the major 
+     courses taken by students studying computer science, as it enlightens us on how to write programs using languages such as C++, Java, Python, HTML, JavaScript, and C.
+     First, the course of programming was one that I disliked, as I felt it needed a lot of work to write programs. Nonetheless, I know it is one of the areas I must adapt it 
+     since I have opted to study the computer science program, which involves a lot of aspects of programming.
 
   8 MODULE(C++) 
 
