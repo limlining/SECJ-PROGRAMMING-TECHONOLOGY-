@@ -32,4 +32,13 @@
 
   #  lab C++
   [Cpp](https://github.com/limlining/cpp)
+
+  # Assignment Preview Anwser
+
+  | ASSIGNMENT|    CLICK         |
+|-------------|---------------------------------|
+| **1** |[CLICK](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-/blob/main/ass.cpp)            |
+| **2** |[CLICK](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-/blob/main/ass2.cpp)| 
+| **3** |[CLICK](https://github.com/limlining/SECJ-PROGRAMMING-TECHONOLOGY-/blob/main/ass3.cpp)| 
+
   
